@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @ItzLog1c
-- 👀 I’m interested in Geometry Dash
-- 🌱 I’m currently learning Spanish
-- 💞️ I’m looking to collaborate on idunno
+- 👋 Hi, I’m ItzLog1c
+- 👀 I’m interested in Geometry Dash & Minecraft bedwars
+- 🌱 I’m currently learning how to talk to women
+- 💞️ hello
 - 📫 How to reach me: nohow, very good attempt FBI :)
-- 😄 Pronouns: wtf?
-- ⚡ Fun fact: AAAAAAAAAAAAAAAA
+- ⚡ Fun fact: If you fart and sneeze at the same time, you can make screenshot
 
 <!---
 ItzLog1c/ItzLog1c is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
